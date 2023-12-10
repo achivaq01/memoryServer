@@ -1,0 +1,37 @@
+{
+    "folders": [
+        {
+            "name": "Root",
+            "path": "."
+        },
+        {
+            "name": "Client Flutter",
+            "path": "client_flutter"
+        },
+        {
+            "name": "Client Java",
+            "path": "client_java"
+        },
+        {
+            "name": "Client JavaFX",
+            "path": "client_javafx"
+        },
+        {
+            "name": "Server Java",
+            "path": "server_java"
+        },
+        {
+            "name": "Server NodeJS",
+            "path": "server_nodejs"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "client_flutter/": true,
+            "client_java/": true,
+            "client_javafx/": true,
+            "server_java/": true,
+            "server_nodejs/": true
+        }
+    }
+}
